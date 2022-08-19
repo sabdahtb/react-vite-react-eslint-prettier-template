@@ -1,4 +1,4 @@
-# REACT-VITE-REACT-ESLINT-PRETTIER-TEMPLATE
+# VITE-REACT-ESLINT-PRETTIER-TEMPLATE
 
 Here i use create React with Typescript with Vite, Eslint and Prettier Config
 
