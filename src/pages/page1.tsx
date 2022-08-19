@@ -12,7 +12,7 @@ const PageOne = () => {
         `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.API_KEY}&language=en-US&page=3`,
       )
       .then((res) => setMovieList(res?.data?.results))
-  })
+  }, [])
   return (
     <div className={classes.colors}>
       <h1>PageOne</h1>
