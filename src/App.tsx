@@ -1,7 +1,7 @@
-import Hello from '~/components/Hello'
+import Navigations from './routes'
 
 function App() {
-  return <Hello />
+  return <Navigations />
 }
 
 export default App

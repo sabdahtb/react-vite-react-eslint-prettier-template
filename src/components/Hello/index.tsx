@@ -1,4 +1,4 @@
-import logo from '~/logo.svg';
+import logo from '~/logo.svg'
 
 const Hello = () => {
   return (
@@ -41,7 +41,7 @@ const Hello = () => {
         </a>
       </div>
     </div>
-  );
-};
+  )
+}
 
-export default Hello;
+export default Hello

@@ -25,7 +25,7 @@
       "warn",
       {
         "argsIgnorePattern": "^_",
-        "varsIgnorePattern": "^_",
+        "varsIgnorePattern": "React",
         "caughtErrorsIgnorePattern": "^_"
       }
     ],
